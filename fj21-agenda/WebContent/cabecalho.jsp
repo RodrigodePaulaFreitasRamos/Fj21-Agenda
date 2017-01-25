@@ -8,7 +8,7 @@
 </head>
 <body>
 	<img src="imagens/caelum.png" />
-	<h2>Agenda de Contatos do Yamaguchi</h2>
+	<h2>Agenda de Contatos do Rodrigo Ramos</h2>
 	<hr />
 </body>
 </html>
